@@ -18,6 +18,8 @@ Motivated and results-driven Data Scientist with over 5.5 years of IT experience
 Skilled in identifying business needs and developing valuable solutions to enhance accuracy and process efficiency.
 Passionate about solving problems with innovative technologies such as Artificial Intelligence and Deep Learning. <br>
 
+<br> 
+
 <div align="center">
  
  🔭 I’m currently working on **Python Projects**

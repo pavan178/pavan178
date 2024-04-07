@@ -24,9 +24,9 @@ Passionate about solving problems with innovative technologies such as Artificia
  
  🔭 I’m currently working on **Python Projects**
  
- 🌱 I’m currently learning **Digital Business & AI**
+ 🌱 I’m currently learning more about **Artificial Intelligence**
 
-💬 Ask me about **Python**
+💬 Ask me about **Data Science**
 
 📧 Reach me out: pkpavankumar178@gmail.com
 

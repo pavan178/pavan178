@@ -48,5 +48,5 @@ Passionate about solving problems with innovative technologies such as Artificia
 
 <h2 align="left">📊 Github Stats 📊</h2>
 
-![Pavan Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan178&show_icons=true&theme=radical)
+![Pavan Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavan178&show_icons=true&theme=radical&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan178&show_icons=true&theme=radical)
